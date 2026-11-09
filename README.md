@@ -27,6 +27,8 @@ Desenvolver um módulo Python capaz de processar uma base de dados e responder �
 - `testes.py`: módulo responsável pelos testes automatizados.
 - `steam_games.csv`: base completa de dados não será inserida > 100mb.
 - `amostra_steam_games.csv`: amostra de 20 jogos utilizada na validação dos resultados.
+- `amostra_steam_games_01.xlsx: planilha Excel contendo a amostra, a memória de cálculo e o Dashboard.
+- `Fase 1 - Programação Dados_Rogério Vinhas.pdf: relatório final do projeto
 
 **Observação sobre a base de dados:** o arquivo completo `steam_games.csv` não foi incluído no repositório devido ao seu tamanho (aproximadamente 215 MB), superior ao limite de 100 MB por arquivo no upload convencional do GitHub. Para executar o programa principal, é necessário disponibilizar esse arquivo na mesma pasta dos módulos Python.
 
