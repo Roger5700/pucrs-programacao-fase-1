@@ -25,8 +25,10 @@ Desenvolver um módulo Python capaz de processar uma base de dados e responder �
 - `Fase_I.py`: programa principal responsável pela execução das análises.
 - `steam_games.py`: módulo que contém a classe `SteamGames` e os métodos de processamento dos dados.
 - `testes.py`: módulo responsável pelos testes automatizados.
-- `steam_games.csv`: base completa de dados.
+- `steam_games.csv`: base completa de dados não será inserida > 100mb.
 - `amostra_steam_games.csv`: amostra de 20 jogos utilizada na validação dos resultados.
+
+**Observação sobre a base de dados:** o arquivo completo `steam_games.csv` não foi incluído no repositório devido ao seu tamanho (aproximadamente 215 MB), superior ao limite de 100 MB por arquivo no upload convencional do GitHub. Para executar o programa principal, é necessário disponibilizar esse arquivo na mesma pasta dos módulos Python.
 
 ## 5. Metodologia
 As análises foram realizadas utilizando a base completa da Steam, composta por 72.934 registros e 39 colunas.
@@ -42,7 +44,7 @@ Os testes contemplam:
 - Análise da compatibilidade dos sistemas operacionais.
 
 ## 7. Arquivos Complementares 
-- Relatório final em Word contendo as análises e conclusões dos resultados.
+- Relatório final em PDF contendo as análises e conclusões dos resultados.
 - O arquivo em Excel, contendo a amostra de 20 jogos, a memória de cálculo e o Dashboard.
 Esses documentos apresentam as análises conclusivas das informações processadas pelo programa.
 
